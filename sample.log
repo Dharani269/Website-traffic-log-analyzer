@@ -1,0 +1,5 @@
+127.0.0.1 - frank [10/Oct/2000:13:55:36 -0700] "GET /index.html HTTP/1.0" 200 128 "http://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+127.0.0.1 - frank [10/Oct/2000:13:56:01 -0700] "GET /about.html HTTP/1.0" 404 312 "http://www.example.com" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+192.168.1.10 - - [11/Oct/2000:14:05:23 -0700] "POST /login HTTP/1.1" 302 512 "http://mysite.com/index.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"
+10.0.0.5 - - [11/Oct/2000:15:00:00 -0700] "GET /products.html HTTP/1.1" 200 1024 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X)"
+10.0.0.6 - - [11/Oct/2000:16:00:00 -0700] "GET /index.html HTTP/1.1" 500 2048 "-" "curl/7.68.0"
